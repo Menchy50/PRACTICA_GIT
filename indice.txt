@@ -1,1 +1,2 @@
 Capitulo 1: Introducci¢n a Git 
+Capitulo 2: Flujo de trabajo b scio 
